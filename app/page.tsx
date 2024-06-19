@@ -1,6 +1,5 @@
-import Image from "next/image";
-import HomeLayout from "./components/layout/homeLayout";
 import MainContainer from "./components/layout/container";
+import HomeLayout from "./components/layout/homeLayout";
 
 export default function Home() {
   return (
